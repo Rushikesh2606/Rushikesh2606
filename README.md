@@ -167,7 +167,7 @@ System Design       ███░░░░░░░░░ 25%
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/rushikesh26@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikesh26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rushikesh-yadav-3a2881305)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-yadav-3a2881305/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushikesh2606)
 [![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Rushikesh_2666/)
 
