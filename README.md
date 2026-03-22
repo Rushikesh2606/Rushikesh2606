@@ -1,122 +1,111 @@
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Rushikesh Yadav</h1>
-<p align="center">
-  Android Developer • Building real-world apps • Exploring AI
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;I+build+useful+apps;Learning+AI+integration;Always+improving...&center=true&width=420&height=40">
+  🚀 Android Developer • 🤖 AI Explorer • 💡 Builder
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=Android+Developer;Building+Real+World+Apps;Exploring+AI+Integration;Always+Learning..." />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+<!-- MAIN CARD -->
+<div align="center">
 
-I’m an Android developer who enjoys turning ideas into real, working apps.  
-Most of my work focuses on **practical applications** — things people can actually use.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 📱 I mainly build using **Java & Kotlin**
-- 🔧 Comfortable with **Firebase, APIs, and app architecture**
-- 🤖 Currently exploring **AI integration in mobile apps**
-- 💡 I like building projects that feel like **startup products**
+### 🧠 **Android Developer**
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🚀 What I’ve Built
-
-#### 💬 Chatify (Chat Application)
-A real-time chat app focused on simplicity and performance.
-
-- Firebase Authentication  
-- Realtime messaging  
-- Clean UI and smooth interaction  
-
-🔗 https://github.com/Rushikesh2606/Chatify1.git
+</div>
 
 ---
 
-#### 👟 Shoe Laundry App
-A service-based application designed for a real business use case.
+## 🎯 Quick Facts
 
-- Order booking system  
-- Service tracking  
-- Practical UI for customers  
-
-🔗 https://github.com/Rushikesh2606/shoe-laundry-app.git
-
----
-
-#### 💼 Freelancer Platform
-A more complex project I worked on.
-
-- Client–freelancer interaction  
-- Bidding system  
-- ⭐ Automated rating system (key feature)  
+- 🔭 Working on **Chatify (Real-time Chat App)**
+- 🌱 Learning **Spring Boot & Flutter**
+- 👯 Open to collaborate on **Android Projects**
+- 💡 Interested in **AI + Mobile Apps**
+- 📫 **rushikesh26@gmail.com**
 
 ---
 
-#### 🤖 AI Financial Assistant
-An experimental project combining finance + AI.
+## 🚀 Projects
 
-- Expense tracking  
-- Smart suggestions  
-- Budget insights  
+### 💬 Chatify
+> Real-time chat app with Firebase backend  
+✔ Authentication  
+✔ Live messaging  
+✔ Smooth UI  
 
----
-
-### 🛠 Tech I Use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=android,java,kotlin,firebase,flutter,python,mysql,sqlite,figma" />
-</p>
+🔗 https://github.com/Rushikesh2606/Chatify1.git  
 
 ---
 
-### 📊 GitHub Stats
+### 👟 Shoe Laundry App
+> Practical service-based Android application  
+✔ Booking system  
+✔ Order tracking  
+
+🔗 https://github.com/Rushikesh2606/shoe-laundry-app.git  
+
+---
+
+### 💼 Freelancer Platform
+> Full-featured marketplace system  
+✔ Bidding system  
+✔ ⭐ Automated rating  
+✔ Client-Freelancer interaction  
+
+---
+
+### 🤖 AI Financial Assistant
+> Smart finance + AI  
+✔ Expense tracking  
+✔ AI suggestions  
+✔ Budget insights  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushikesh2606&show_icons=true&theme=default" />
+  <img src="https://skillicons.dev/icons?i=android,java,kotlin,firebase,flutter,python,mysql,sqlite,figma&theme=dark" />
+</p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikesh2606&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh2606&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=rushikesh2606&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🔥 Streak
+## 🌐 Connect
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rushikesh2606" />
+  <a href="mailto:rushikesh26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
 </p>
 
 ---
 
-### 🌱 Currently Learning
+<div align="center">
 
-- Spring Boot (backend side)
-- Flutter (cross-platform)
-- How to integrate AI into mobile apps properly
+✨ *Building things that actually matter.*
 
----
-
-### 📫 Reach Me
-
-- 📧 rushikesh26@gmail.com  
-- 💼 (add your LinkedIn here)
-
----
-
-### ⚡ Small Note
-
-I like building things that solve real problems instead of just “demo projects”.  
-Still learning, still improving — one project at a time.
-
----
-
-<p align="center">
-  — Rushikesh
-</p>
+</div>
