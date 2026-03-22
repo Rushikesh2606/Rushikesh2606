@@ -39,7 +39,7 @@ data class Developer(
 |--------|-------------|------|-----------|
 | 💬 **[Chatify](https://github.com/Rushikesh2606/Chatify1)** | Real-time chat application | Android · Firebase | Auth, Live Messaging, Smooth UI |
 | 👟 **[Shoe Laundry App](https://github.com/Rushikesh2606/shoe-laundry-app)** | Service booking platform | Android · Java | Booking System, Order Tracking |
-| 💼 **Freelancer Platform** | Full marketplace ecosystem | Android · MySQL | Bidding, Auto-Ratings, Client Dashboard |
+| 💼 **[Freelancer Platform](https://github.com/Rushikesh2606/MegaProject2.git) | Full marketplace ecosystem | Android · MySQL | Bidding, Auto-Ratings, Client Dashboard |
 | 🤖 **AI Financial Assistant** | Smart finance tracker | Android · Python · AI | Expense AI, Budget Insights |
 
 </div>
@@ -75,7 +75,7 @@ data class Developer(
 - ⭐ Automated AI-assisted rating engine
 - 💬 Built-in client ↔ freelancer chat
 - 📊 Project milestone & payment tracking
-
+[![View Repo](https://img.shields.io/badge/View_on_GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushikesh2606/MegaProject2.git)
 ---
 
 ### 🤖 AI Financial Assistant
